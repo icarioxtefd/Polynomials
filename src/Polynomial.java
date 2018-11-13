@@ -121,18 +121,5 @@ public class Polynomial
 		Polynomial idk = new Polynomial(arrayMult);
 		return idk;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }
